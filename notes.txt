@@ -1,0 +1,22 @@
+usage:
+
+cargo build
+.\target\debug\computor1 "hello"
+
+or 
+
+make run ARGS="hello"
+
+
+
+
+cargo clean
+
+
+or 
+
+make clean
+
+
+
+
