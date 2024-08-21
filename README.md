@@ -1,9 +1,6 @@
 # 42_Mastery_Computerv1
 42 Mastery Computerv1 Project, using Rust
 
-
-Make file was done just for evaluator purposes, should be omitable.
-
 Usage:
 
 $>make
