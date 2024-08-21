@@ -1,5 +1,6 @@
 # 42_Mastery_Computerv1
-42 Mastery Computerv1 Project, using Rust
+42 Mastery-level Project implemented using Rust. <br>
+This program takes as parameter a string with a polynomial equation problem to solve, and solves it. Solutions include imaginary number cases.
 
 Usage:
 
